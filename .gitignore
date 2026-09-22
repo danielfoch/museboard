@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs
+*.log
+
+# Build output (none used yet, but just in case)
+dist/
+build/
