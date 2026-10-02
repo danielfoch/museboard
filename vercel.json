@@ -1,5 +1,9 @@
 {
   "redirects": [
-    { "source": "/(.*)", "destination": "https://grokbook.ai/muse", "permanent": false }
+    {
+      "source": "/(.*)",
+      "destination": "https://museboard.io",
+      "permanent": false
+    }
   ]
 }
